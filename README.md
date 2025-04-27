@@ -47,7 +47,7 @@ It includes examples of basic CRUD operations (Create, Read, Update, Delete) usi
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/Darshit-Thakkar/database.git
+git clone https://github.com/Darshit-Thakkar/MERN-Stack.git
 cd database
 ```
 

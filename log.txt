@@ -1,0 +1,18 @@
+
+1745664392122:::1 method: GET:/api/users
+
+1745664498216:::1 method: GET:/api/users
+
+1745664587151:::1 method: GET:/api/users
+
+1745664620615:::1 method: POST:/api/users
+
+1745664627260:::1 method: GET:/api/users
+
+1745664641232:::1 method: PATCH:/api/users/680cba6cf0565b6d9bd127e7
+
+1745664653220:::1 method: GET:/api/users/680cba6cf0565b6d9bd127e7
+
+1745664696821:::1 method: DELETE:/api/users/680cba6cf0565b6d9bd127e7
+
+1745664705794:::1 method: GET:/api/users
